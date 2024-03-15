@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
 
-'' A base version of the game Tic-Tac-Toe.
-'' This page is not responsive...for now
+A basic version of the Tic-Tac-Toe game. 
 
+This page is not responsive...for now.
